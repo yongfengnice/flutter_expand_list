@@ -6,11 +6,4 @@ A new Flutter application - flutter_expand_list
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://img2020.cnblogs.com/blog/1020339/202012/1020339-20201210181741823-1706127398.png" style="zoom:50%;" />
